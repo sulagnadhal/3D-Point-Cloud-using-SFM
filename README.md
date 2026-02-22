@@ -40,8 +40,8 @@ The program loads:
 - `right.png`
   
 <p float="left">
-  <img src="images/left.png" width="45%" />
-  <img src="images/right.png" width="45%" />
+  <img src="left.png" width="45%" />
+  <img src="right.png" width="45%" />
 </p>
 
 ###  Feature Detection
