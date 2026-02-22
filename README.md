@@ -22,16 +22,6 @@ This project demonstrates core computer vision concepts including:
 
 ---
 
-##  Project Structure
-├── SFM-1.py # Feature detection and matching
-├── SFM-2.py # Pose estimation and triangulation
-├── left.png # Left stereo image
-├── right.png # Right stereo image
-└── README.md
-
-
----
-
 ##  How It Works
 
 ### Load Stereo Images
