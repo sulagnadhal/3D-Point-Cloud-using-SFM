@@ -48,7 +48,7 @@ Matching keypoints are found using:
 
 ###  Essential Matrix Estimation
 Using matched points:
-```python
+
 cv2.findEssentialMat()
 
 ### Recover Camera Pose
