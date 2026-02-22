@@ -38,6 +38,10 @@ This project demonstrates core computer vision concepts including:
 The program loads:
 - `left.png`
 - `right.png`
+<p float="left">
+  <img src="images/left.png" width="45%" />
+  <img src="images/right.png" width="45%" />
+</p>
 
 ###  Feature Detection
 ORB/SIFT features are detected in both images.
