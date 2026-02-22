@@ -68,6 +68,7 @@ Translation (t)
 cv2.triangulatePoints()
 
 ## Output 3D Image
+![output](output1.png)
 <img src="output1.png" width="400">
 
 ## How to Run
