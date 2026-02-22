@@ -67,6 +67,9 @@ Translation (t)
 3D points are reconstructed using:
 cv2.triangulatePoints()
 
+## Output 3D Image
+<img src="output1.png" width="400">
+
 ## How to Run
 Step 1: Install Dependencies
 
